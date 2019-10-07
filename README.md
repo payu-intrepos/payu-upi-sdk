@@ -1,2 +1,2 @@
 # payu-upi-sdk
-UPI SDK of PayUbiz(version 1.0.0)
+UPI SDK of PayUbiz(version 1.0.2)
