@@ -1,5 +1,5 @@
 # payu-upi-sdk
-UPI SDK of PayUbiz(version 1.3.2)
+UPI SDK of PayUbiz(version 1.4.0)
 
 UPI Sdk offered by PayU is for merchants who are looking to integrate with UPI payment option in their Android app.It offers payment by all UPI payment modes viz. Collect, Intent, In-app*. 
 
@@ -18,6 +18,8 @@ Validate VPA API is made public so that merchant can create their own UPI Collec
 v1.3.2
 Support for End to End flow on low memory and Bug fixes
 
+v1.4.0
+Migrated to AndroidX.Minimum SDK is now updated to 21 and compile sdk to 28.
 
 In-app*: When used in conjunction with Google Pay / PhonePe sdk   
 
