@@ -21,5 +21,8 @@ Support for End to End flow on low memory and Bug fixes
 v1.4.0
 Migrated to AndroidX.Minimum SDK is now updated to 21 and compile sdk to 28.
 
+v1.4.2
+Bug fixes.
+
 In-app*: When used in conjunction with Google Pay / PhonePe sdk   
 
