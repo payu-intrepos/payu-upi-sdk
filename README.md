@@ -1,5 +1,5 @@
 # payu-upi-sdk
-UPI SDK of PayUbiz(version 1.4.3)
+UPI SDK of PayUbiz(version 1.5.0)
 
 UPI Sdk offered by PayU is for merchants who are looking to integrate with UPI payment option in their Android app.It offers payment by all UPI payment modes viz. Collect, Intent, In-app*. 
 
@@ -23,6 +23,9 @@ Migrated to AndroidX.Minimum SDK is now updated to 21 and compile sdk to 28.
 
 v1.4.2
 Bug fixes.
+
+v1.5.0
+Support for package visibility in Android 11.
 
 In-app*: When used in conjunction with Google Pay / PhonePe sdk   
 
