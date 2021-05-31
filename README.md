@@ -29,7 +29,8 @@ Support for package visibility in Android 11.
 
 v1.5.1
 Bug fixes.
-Add Bullet Money UPI App support in Android 11.
+
+Added Bullet Money UPI App support in Android 11.
 
 In-app*: When used in conjunction with Google Pay / PhonePe sdk   
 
